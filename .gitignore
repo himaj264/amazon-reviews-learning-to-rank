@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+venv/
+env/
+ml_env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (DON'T COMMIT)
+data/
+*.json.gz
+*.gz
+
+# OS
+.DS_Store
