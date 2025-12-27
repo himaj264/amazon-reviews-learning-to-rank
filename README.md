@@ -2,7 +2,7 @@
 # Learning-to-Rank for Search using Amazon Reviews
 
 ## Overview
-This project demonstrates an ** Learning-to-Rank (LTR) pipeline**
+This project demonstrates an Learning-to-Rank (LTR) pipeline
 using public Amazon Reviews data. The goal is to construct a realistic ranking problem,
 build strong baselines, train a learned ranker, and evaluate everything with **proper
 ranking metrics**.
